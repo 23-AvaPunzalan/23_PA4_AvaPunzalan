@@ -1,8 +1,8 @@
 Unit Testing
-* What is Unit Testing?
+* What is Unit Testing? Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually scrutinized for proper operation. 
 * Unit Testing is conducted by developers
-* It is type of (blackbox/whitebox testing)
+* It is type of Blackbox testing.
 Integration Testing
-* What is Integration Testing?
+* What is Integration Testing? Integration testing is a type of software testing where components of the software are gradually integrated and then tested as a unified group.
 * Integration Testing is conducted by game testers
-* It is type of (blackbox/whitebox testing)
+* It is type of whitebox testing.
